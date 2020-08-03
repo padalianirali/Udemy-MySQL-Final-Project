@@ -1,1 +1,1 @@
-# Udemy-MySQL-Final-Project
+10 beginner's level exercises for MySQL
